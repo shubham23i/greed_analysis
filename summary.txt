@@ -1,6 +1,6 @@
 Fear vs Greed Analysis Summary
 
-Overview This project analyzes how trader performance and behavior
+Overview - This project analyzes how trader performance and behavior
 change under different market sentiment regimes (Fear vs Greed).
 Historical trading data is combined with the Fear & Greed Index and
 analyzed at a daily trader level.
@@ -22,6 +22,6 @@ especially for high-risk traders. - Allow higher activity during Greed
 regimes, but maintain leverage limits. - Apply different risk controls
 to different trader segments.
 
-Conclusion Market sentiment has a measurable impact on trader behavior
+Conclusion - Market sentiment has a measurable impact on trader behavior
 and outcomes. Incorporating sentiment and trader segmentation into
 decision-making can improve risk management and performance.
