@@ -1,0 +1,27 @@
+Fear vs Greed Analysis Summary
+
+Overview This project analyzes how trader performance and behavior
+change under different market sentiment regimes (Fear vs Greed).
+Historical trading data is combined with the Fear & Greed Index and
+analyzed at a daily trader level.
+
+Methodology - Trading data and sentiment data were aligned by date. -
+Daily trader-level metrics were calculated, including PnL, win rate,
+leverage, trade frequency, and positioning. - Results were compared
+across Fear and Greed regimes. - Traders were segmented by behavior, and
+an optional clustering analysis was performed.
+
+Key Insights 1. Trader performance is stronger during Greed regimes than
+Fear regimes. 2. Traders use higher leverage and trade more frequently
+during Greed periods. 3. High-leverage traders are more sensitive to
+sentiment changes. 4. Distinct trader behavior groups emerge when
+clustering is applied.
+
+Strategy Takeaways - Reduce leverage exposure during Fear regimes,
+especially for high-risk traders. - Allow higher activity during Greed
+regimes, but maintain leverage limits. - Apply different risk controls
+to different trader segments.
+
+Conclusion Market sentiment has a measurable impact on trader behavior
+and outcomes. Incorporating sentiment and trader segmentation into
+decision-making can improve risk management and performance.
